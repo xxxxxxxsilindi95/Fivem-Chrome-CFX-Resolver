@@ -9,11 +9,7 @@
 <p align="left">✨ Sends requests to fivem APIs and displays information</p>
 
 ###
-
-<div align="center">
 https://user-images.githubusercontent.com/43701702/187067240-da40861e-7e03-4b07-812c-8b1958e00569.mp4
-</div>
-
 ###
 
 <h2 align="left">I code with</h2>
